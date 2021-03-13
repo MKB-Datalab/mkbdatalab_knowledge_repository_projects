@@ -40,8 +40,6 @@ text, information from tables, and also from hyperlinks within a webpage.
 
 <img src="https://github.com/MKB-Datalab/retrieving-data-with-apis/blob/master/images/API_cover_Matthew_Henry_Burst.JPG" height="200"/>
 
-* Brief description and/or bullet list with main points 
-
 In this tutorial we give an overview of how to use APIs (Application Programming Interfaces) to retrieve data. Via API one is able to retrieve real time 
 data as well as historical data. An example of interesting business application involves combining real time data together with historical data to predict  demand of products.
 

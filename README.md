@@ -55,6 +55,19 @@ some APIs starting by a simple one: The [Open Movie database (OMDb) API]( http:/
 [NS]( https://apiportal.ns.nl/) and KNMI Weer APIs ([Weerlive]( https://weerlive.nl/delen.php) and [meteoserver]( https://meteoserver.nl/)).
 To close it we check out how to pull data from [Twitter]( https://twitter.com/home?lang=en).
   
+<a name="time-series-analysis-with-SARIMAX-and-Prophet"/></a>
+###  [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet)
+[Repository](time-series-analysis-with-SARIMAX-and-Prophet) | [Blog part 01](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/) | [Blog part 02](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/) | [Blog part 03](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/)
+
+<img src="https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg" height="200"/>
+
+In this tutorial we give an overview of how to use APIs (Application Programming Interfaces) to retrieve data. Via API one is able to retrieve real time 
+data as well as historical data. An example of interesting business application involves combining real time data together with historical data to predict  demand of products.
+
+We start this tutorial with some basics on JSON (JavaScript Object Notation) files which are standard form for transferring data through APIs. After that we start exploring 
+some APIs starting by a simple one: The [Open Movie database (OMDb) API]( http://www.omdbapi.com/). Then we take a look on how to get information from both 
+[NS]( https://apiportal.ns.nl/) and KNMI Weer APIs ([Weerlive]( https://weerlive.nl/delen.php) and [meteoserver]( https://meteoserver.nl/)).
+To close it we check out how to pull data from [Twitter]( https://twitter.com/home?lang=en).
 
 
 [:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main)

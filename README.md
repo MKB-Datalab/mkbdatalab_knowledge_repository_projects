@@ -67,7 +67,7 @@ In this tutorial we introduce some basics on time series analysis. We also give 
 
 This tutorial is divided in 3 parts each one presented in the following notebooks and blogs:
 
-[01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb) ! [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
+* [01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb) | [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
 
 [:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main)
 

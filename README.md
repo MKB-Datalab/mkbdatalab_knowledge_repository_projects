@@ -56,7 +56,7 @@ some APIs starting by a simple one: The [Open Movie database (OMDb) API]( http:/
 To close it we check out how to pull data from [Twitter]( https://twitter.com/home?lang=en).
   
 <a name="time-series-analysis-with-SARIMAX-and-Prophet"/></a>
-###  [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet)
+###  [**Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet)
 [Repository](time-series-analysis-with-SARIMAX-and-Prophet) | [Blog part 01](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/) | [Blog part 02](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/) | [Blog part 03](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/)
 
 <img src="https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg" height="200"/>

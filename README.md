@@ -68,6 +68,10 @@ In this tutorial we introduce some basics on time series analysis. We also give 
 This tutorial is divided in 3 parts each one presented in the following notebooks and blogs:
 
 * [01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb) | [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
+* [02-Forecasting_with_SARIMAX.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb) | [Time Series Part 2: Forecasting with SARIMAX models: An Intro](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
+* [03-Forecasting_with_Facebook_Prophet.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet.ipynb) | [Time Series Part 3: Forecasting with Facebook Prophet: An Intro](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/)
+
+
 
 [:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main)
 

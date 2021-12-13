@@ -73,7 +73,7 @@ This tutorial is divided in 3 parts each one presented in the following notebook
 
 <a name="marketing-analysis-part-1-market-basket-analysis"/></a>
 ###  [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis)
-[Repository](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | [Blog](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
+[Repository](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | [Blog](https://jadsmkbdatalab.nl/marketing-analytics-part-1-market-basket-analysis/)
 
 <img src="https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis/blob/master/images/dave-goudreau-0uH7NLMaMtQ-unsplash_modified.jpg" height="200"/>
 

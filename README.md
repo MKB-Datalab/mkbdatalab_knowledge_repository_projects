@@ -15,8 +15,8 @@ while helping many SME's becoming more data driven.
 | [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/retrieving-data-with-apis) | <img src="https://img.shields.io/badge/-%20API -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet) | <img src="https://img.shields.io/badge/-%20Forecasting -yellow"> <img src="https://img.shields.io/badge/-%20ARIMA -yellow"> <img src="https://img.shields.io/badge/-%20statsmodel -yellowgreen"> <img src="https://img.shields.io/badge/-%20FacebookProphet -yellow">  <img src="https://img.shields.io/badge/-Python-blue"> |
-<!-- | [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | <img src="https://img.shields.io/badge/-%20MarketingAnalytics -red"> <img src="https://img.shields.io/badge/-%20MarketBasketAnalysis -red"> <img src="https://img.shields.io/badge/-%20MLxtend -9cf"> <img src="https://img.shields.io/badge/-Python-blue"> |
-     -->
+| [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | <img src="https://img.shields.io/badge/-%20MarketingAnalytics -red"> <img src="https://img.shields.io/badge/-%20MarketBasketAnalysis -red"> <img src="https://img.shields.io/badge/-%20MLxtend -9cf"> <img src="https://img.shields.io/badge/-Python-blue"> |
+    
 
 
 
@@ -71,6 +71,17 @@ This tutorial is divided in 3 parts each one presented in the following notebook
 * [02-Forecasting_with_SARIMAX.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb) | [Time Series Part 2: Forecasting with SARIMAX models: An Intro](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
 * [03-Forecasting_with_Facebook_Prophet.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet.ipynb) | [Time Series Part 3: Forecasting with Facebook Prophet: An Intro](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/)
 
+<a name="time-series-analysis-with-SARIMAX-and-Prophet"/></a>
+###  [**Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet)
+[Repository](time-series-analysis-with-SARIMAX-and-Prophet) | [Blog part 01](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/) | [Blog part 02](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/) | [Blog part 03](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/)
+
+<img src="https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg" height="200"/>
+
+**Time series analysis** deals with data that is ordered in time. Time series data is one of the most common data types and it is used in a wide variety of domains: finance, climate, health, energy, governance, industry, agriculture, business etc. Being able to effectively work with such data is an increasingly important skill for data scientists, especially when the goal is to report trends, forecast, and even detect anomalies.
+
+In this tutorial we introduce some basics on time series analysis. We also give an overview some important models used to forecasting: ARIMA models and its variants, as well as the Facebook Prophet forecasting model.
+
+This tutorial is divided in 3 parts each one presented in the following notebooks and blogs:
 
 
 [:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main)
